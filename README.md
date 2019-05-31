@@ -1,7 +1,7 @@
 # AutoHtml
 
 AutoHtml is a collection of filters that transforms plain text into HTML code.
-Forked to update de gemoji dependency.
+Forked to update gemoji dependency.
 
 ## Installation
 
